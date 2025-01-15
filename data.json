@@ -6,6 +6,13 @@
             "department": "Computer Engineering",
             "idCode": "CO2024",
             "feedback": "Great workshop! Learned a lot about Git and GitHub."
+        },
+        {
+            "name": "Samyak",
+            "year": "Second Year",
+            "department": "Informaton Techknology",
+            "idCode": "23IF053",
+            "feedback": ""
         }
     ]
 }
