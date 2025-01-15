@@ -6,6 +6,13 @@
             "department": "Computer Engineering",
             "idCode": "CO2024",
             "feedback": "Great workshop! Learned a lot about Git and GitHub."
+        },
+        {
+            "name": "Om Sable",
+            "year": "Third Year",
+            "department": "Information Technology",
+            "idCode": "22IF052",
+            "feedback": "Awesome workshop had amazing experience"
         }
     ]
 }
