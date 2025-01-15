@@ -14,5 +14,13 @@
             "idCode": "23IF053",
             "feedback": ""
         }
+
+        {
+            "name": "Shravani",
+            "year": "Third Year",
+            "department": "Informaton Techknology",
+            "idCode": "22IF011",
+            "feedback": "It was a fantastic session that has given me the confidence to use Git and GitHub in my projects.thank you for organizing this!"
+        }
     ]
 }
