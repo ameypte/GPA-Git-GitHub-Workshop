@@ -1,11 +1,18 @@
 {
     "participants": [
         {
-            "name": "Sample Student",
-            "year": "Second Year",
-            "department": "Computer Engineering",
+             "name": "Vinit Ghurde",
+            "year": "Third Year",
+            "department": "Information Technology",
             "idCode": "CO2024",
             "feedback": "Great workshop! Learned a lot about Git and GitHub."
+        }
+         {
+             "name": "Harish Dhole",
+            "year": "Third Year",
+            "department": "Information Technology",
+            "idCode": "CO2024",
+            "feedback": "Harish is obidient student...!"
         }
     ]
 }
