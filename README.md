@@ -15,7 +15,7 @@ This repository hosts the activity for the **Git & GitHub Workshop**, along with
 
 2. **Clone your forked repository**:  
    ```bash
-   git clone https://github.com/<your-username>/GPA-Git-GitHub-Workshop.git
+   git clone https://github.com/ameypte/GPA-Git-GitHub-Workshop.git
    cd GPA-Git-GitHub-Workshop
    ```
 
