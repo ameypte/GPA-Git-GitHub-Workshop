@@ -1,10 +1,10 @@
 {
     "participants": [
         {
-            "name": "Sample Student",
+            "name": "Aasawari Pokale",
             "year": "Second Year",
-            "department": "Computer Engineering",
-            "idCode": "CO2024",
+            "department": "Information Technology",
+            "idCode": "23IF047",
             "feedback": "Great workshop! Learned a lot about Git and GitHub."
         },
         {
@@ -13,6 +13,20 @@
             "department": "Information Technology",
             "idCode": "22IF052",
             "feedback": "Awesome workshop had amazing experience"
+        },
+        {
+            "name": "Samyak",
+            "year": "Second Year",
+            "department": "Informaton Techknology",
+            "idCode": "23IF053",
+            "feedback": ""
+        },
+        {
+            "name": "Shravani Deshmukh",
+            "year": "Third Year",
+            "department": "Informaton Techknology",
+            "idCode": "22IF011",
+            "feedback": "It was a fantastic session that has given me the confidence to use Git and GitHub in my projects.thank you for organizing this!"
         }
     ]
 }
