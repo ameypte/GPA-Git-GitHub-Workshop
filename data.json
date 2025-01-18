@@ -1,9 +1,9 @@
 {
     "participants": [
         {
-            "name": "aasawari pokale",
+            "name": "Aasawari Pokale",
             "year": "Second Year",
-            "department": "information technology",
+            "department": "Information Technology",
             "idCode": "23IF047",
             "feedback": "Great workshop! Learned a lot about Git and GitHub."
         },
@@ -13,8 +13,7 @@
             "department": "Informaton Techknology",
             "idCode": "23IF053",
             "feedback": ""
-        }
-
+        },
         {
             "name": "Shravani Deshmukh",
             "year": "Third Year",
